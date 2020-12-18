@@ -5,7 +5,7 @@ While the objective of competitors is to get the best AUC score _Area under the 
 
 # Deliverables
 methodological notice (French) : P7_ML_for_Credit_Scoring.pdf
-slides : P7_Support.pptx (for animation) & pdf
+slides : P7_Support.pdf
 
 # Dashboard
 The  __Dashboard__ python file, can be found in the public repo :  https://github.com/EtienneLardeur/Streamlit_App
